@@ -49,7 +49,7 @@ Me chamo Igor Castro, tenho 23 anos. Atualmente, estou cursando Análise e Desen
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroPF&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroPF&theme=dark&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>

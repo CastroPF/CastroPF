@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Igor Castro
+# Igor Castro
 
 Me chamo Igor Castro, tenho 23 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA. Sou apaixonado por tecnologia e por desafios. Acompanhe meu progresso :)
 
